@@ -56,6 +56,8 @@ This Automation Framework is designed using Protractor, Jasmine and JavaScript
 <img src= "./images/test-results.png" width=800 height=600 alt="protractor-jasmine-javascript.png"/>
 </p>
 
+![Protractor, Jasmine and JavaScript](./images/test-results.png?raw=true "Protractor, Jasmine and JavaScript")
+
 
 ## [Step by Step installation instruction for Beginners](https://qaloop.tk/blog/2018/12/28/test-automation-using-protractor-jasmine-and-javascript/ "Step by Step installation instruction for Beginners")
 
