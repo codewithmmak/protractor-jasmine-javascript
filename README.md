@@ -57,7 +57,7 @@ This Automation Framework is designed using Protractor, Jasmine and JavaScript
 </p>
 
 
-## [Step by Step installation instruction for Beginners](https://qaloop.tk/protractor/ "Step by Step installation instruction for Beginners")
+## [Step by Step installation instruction for Beginners](https://qaloop.tk/blog/2018/12/28/test-automation-using-protractor-jasmine-and-javascript/ "Step by Step installation instruction for Beginners")
 
 
 ## Visit my [Blog](https://qaloop.tk/blog/ "Blog")
