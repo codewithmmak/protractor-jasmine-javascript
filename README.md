@@ -52,10 +52,6 @@ This Automation Framework is designed using Protractor, Jasmine and JavaScript
 * Go to Project root directory and run command: `npm update`
 
 ### Sample Test Results
-<p align="center">
-<img src= "./images/test-results.png" width=800 height=600 alt="protractor-jasmine-javascript.png"/>
-</p>
-
 ![Protractor, Jasmine and JavaScript](./images/test-results.png?raw=true "Protractor, Jasmine and JavaScript")
 
 
