@@ -1,0 +1,42 @@
+{
+  "name": "protractor-jasmine-javascript",
+  "version": "1.0.0",
+  "description": "This is Test Automation framework designed using Protractor, Jasmine and JavaScript",
+  "homepage": "https://github.com/qaloop/protractor-jasmine-javascript",
+  "main": "conf.js",
+  "dependencies": {
+    "jasmine": "^3.3.0",
+    "protractor": "^5.4.1",
+    "protractor-beautiful-reporter": "^1.2.7"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^3.3.1",
+    "@types/jasminewd2": "^2.0.6",
+    "randomstring": "^1.1.5",
+    "rimraf": "^2.6.2"
+  },
+  "scripts": {
+    "clean": "rimraf temp/ && rimraf download/",
+    "pretest": "npm run clean",
+    "test": "protractor conf.js",
+    "webdriver-update": "node node_modules/protractor/bin/webdriver-manager update"
+  },
+  "keywords": [
+    "protractor",
+    "jasmine",
+    "javascript",
+    "angular",
+    "angularjs",
+    "vscode",
+    "testing",
+    "selenium",
+    "webdriverJS",
+    "automation testing"
+  ],
+  "author": "QA Loop",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qaloop/protractor-jasmine-javascript.git"
+  }
+}
