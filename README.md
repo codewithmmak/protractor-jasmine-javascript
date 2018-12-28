@@ -1,7 +1,12 @@
 ![Protractor, Jasmine and JavaScript](./images/protractor-jasmine-javascript.png?raw=true "Protractor, Jasmine and JavaScript")
 
 # Protractor Automation Framework
-This Automation Framework is designed using Protractor, Jasmine and JavaScript
+This Automation Framework is designed using Protractor, Jasmine and JavaScript.
+
+## Features
+* This automation framework is designed using Protractor and Jasmine.
+* JavaScript is used as programming language.
+* Reporting is implemented using protractor-beautiful-reporter npm module. This generates the report in html and json. Also it captures the screenshots.
 
 ## Framework Structure
 ```
