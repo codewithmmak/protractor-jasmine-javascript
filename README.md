@@ -1,7 +1,7 @@
 ![Protractor, Jasmine and JavaScript](./images/protractor-jasmine-javascript.png?raw=true "Protractor, Jasmine and JavaScript")
 
-# Protractor Automation Framework
-This Automation Framework is designed using Protractor, Jasmine and JavaScript.
+# Protractor, Jasmine and JavaScript Test Automation Examples
+This is sample Test Automation framework designed using Protractor, Jasmine and JavaScript. And in this framework we will see some basic working examples for learning.
 
 ## Features
 * This automation framework is designed using Protractor and Jasmine.
@@ -10,7 +10,6 @@ This Automation Framework is designed using Protractor, Jasmine and JavaScript.
 
 ## Framework Structure
 ```
-├───.circleci                       # This contains CircleCI config.yml file
 ├───images                          # This folder contains sample report image
 ├───page-objects                    # This folder contains page object, page helper and page contants
 │   ├───common
@@ -57,7 +56,7 @@ This Automation Framework is designed using Protractor, Jasmine and JavaScript.
 * Go to Project root directory and run command: `npm update`
 
 ### Sample Test Results
-![Protractor, Jasmine and JavaScript](./images/test-results.png?raw=true "Protractor, Jasmine and JavaScript")
+![Protractor, Jasmine and JavaScript Test Result](./images/test-results.png?raw=true "Protractor, Jasmine and JavaScript Test Result")
 
 
 ## [Step by Step installation instruction for Beginners](https://qaloop.tk/blog/2018/12/28/test-automation-using-protractor-jasmine-and-javascript/ "Step by Step installation instruction for Beginners")
