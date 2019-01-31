@@ -1,0 +1,6 @@
+screenshots/
+testResults/
+node_modules/
+.vscode
+.idea
+*.log

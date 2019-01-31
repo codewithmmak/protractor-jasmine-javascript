@@ -26,9 +26,9 @@ This is sample Test Automation framework designed using Protractor, Jasmine and 
 ### Pre-requisites
 * Download and install Chrome or Firefox browser.
 * Download and install Node.js:
-  * [Install Node.JS](https://qaloop.tk/blog/2018/11/23/install-node-js/ "Install Node.JS")
+  * [Install Node.JS](https://qaloop.tk/blog/install-node-js/ "Install Node.JS")
 * Optional - Download and install any Text Editor like Visual Code/Sublime/Brackets
-  * [Install Visual Studio Code](https://qaloop.tk/blog/2018/11/23/install-visual-studio-code/ "Install Visual Studio Code")
+  * [Install Visual Studio Code](https://qaloop.tk/blog/install-visual-studio-code/ "Install Visual Studio Code")
 
 ### Setup Scripts 
 * Clone the repository into a folder
@@ -59,7 +59,7 @@ This is sample Test Automation framework designed using Protractor, Jasmine and 
 ![Protractor, Jasmine and JavaScript Test Result](./images/test-results.png?raw=true "Protractor, Jasmine and JavaScript Test Result")
 
 
-## [Step by Step installation instruction for Beginners](https://qaloop.tk/blog/2018/12/28/test-automation-using-protractor-jasmine-and-javascript/ "Step by Step installation instruction for Beginners")
+## [Step by Step installation instruction for Beginners](https://qaloop.tk/blog/test-automation-using-protractor-jasmine-and-javascript/ "Step by Step installation instruction for Beginners")
 
 
 ## Visit my [Blog](https://qaloop.tk/blog/ "Blog")
