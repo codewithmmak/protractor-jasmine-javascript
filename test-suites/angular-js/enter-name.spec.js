@@ -6,6 +6,6 @@ describe('AngularJS Website Test: ', function () {
 		var enterNamePage = new EnterNamePage();
 		enterNamePage.get();
 		enterNamePage.setName('QA Loop');
-		expect(enterNamePage.getGreeting()).toEqual('Hello QA Loop!');
+		expect(enterNamePage.getGreeting()).toEqual('Hello Code with MMAK!');
 	});
 });
