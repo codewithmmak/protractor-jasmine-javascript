@@ -2,18 +2,18 @@
   "name": "protractor-jasmine-javascript",
   "version": "1.0.0",
   "description": "This is Test Automation framework designed using Protractor, Jasmine and JavaScript",
-  "homepage": "https://github.com/qaloop/protractor-jasmine-javascript",
+  "homepage": "https://github.com/codewithmmak/protractor-jasmine-javascript",
   "main": "conf.js",
   "dependencies": {
-    "jasmine": "^3.99.0",
-    "protractor": "^5.4.4",
+    "jasmine": "^4.2.0",
+    "protractor": "^7.0.0",
     "protractor-beautiful-reporter": "^1.3.6"
   },
   "devDependencies": {
-    "@types/jasmine": "^3.10.5",
+    "@types/jasmine": "^4.0.3",
     "@types/jasminewd2": "^2.0.10",
     "randomstring": "^1.2.2",
-    "rimraf": "^2.7.1",
+    "rimraf": "^3.0.2",
     "yargs-parser": "^21.0.1"
   },
   "scripts": {
@@ -34,10 +34,10 @@
     "webdriverJS",
     "automation testing"
   ],
-  "author": "QA Loop",
+  "author": "Code with MMAK",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qaloop/protractor-jasmine-javascript.git"
+    "url": "https://github.com/codewithmmak/protractor-jasmine-javascript.git"
   }
 }
