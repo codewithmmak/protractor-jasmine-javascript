@@ -13,7 +13,7 @@
     "@types/jasmine": "^4.0.3",
     "@types/jasminewd2": "^2.0.10",
     "randomstring": "^1.2.2",
-    "rimraf": "^3.0.2",
+    "rimraf": "^4.0.0",
     "yargs-parser": "^21.0.1"
   },
   "scripts": {
